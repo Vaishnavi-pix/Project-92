@@ -1,0 +1,59 @@
+body{
+    background-image: url("http://b.rgbimg.com/cache1sddS9/users/x/xy/xymonau/600/nt3hJ6e.jpg");
+}
+#login{
+   margin-top:300px; 
+   width: 400px;
+  height: 100px;
+  background:linear-gradient(45deg,pink, lightblue);
+  border-radius: 25px;
+  border-color: white;
+  font-size: 50px;
+  color:whitesmoke;
+}
+h1,h3{
+color:white;
+}
+.loginDiv2{
+    float:right;
+    margin-right:10px;
+    margin-top: 50px;
+}
+.loginDiv1{
+float: left;
+margin-left:30px;
+margin-top:50px;
+}
+header{
+    color:white;
+    font-size:100px;
+    border-style:ridge;
+    border-color:white;
+    border-width:5px;
+    background:linear-gradient(45deg,pink, lightblue);
+}
+#output{
+    background:linear-gradient(45deg,pink, lightblue);
+    border-radius: 10px;
+    border-top: 10px solid pink;
+    padding:10px;
+    float:none;
+    text-align: left;
+}
+#send{
+    width: 300px;
+  height: 100px;
+  background:linear-gradient(45deg,pink, lightblue);
+  border-radius: 25px;
+  border-color: white;
+  font-size: 50px;
+  color:whitesmoke;
+}
+label{
+    color:white;
+    font-size:25px;
+}
+span{
+    color:white;
+    font-size:25px;
+}
